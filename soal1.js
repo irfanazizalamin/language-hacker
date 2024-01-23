@@ -26,4 +26,5 @@
    }
    else{
       console.log(" Kelass A+")
+      console.log("cihuyyy")
    }
